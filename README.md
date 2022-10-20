@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Daniil-Hirchyts
 - 👀 I’m 3D Generalist / Digital designer & Begginer programmer
-- 🌱 I’m currently learning Web Dev, Java, PHP, SQL
+- 🌱 I’m currently learning Java, JavaFX, JavaScript, PHP, MySQL, HTML, CSS
