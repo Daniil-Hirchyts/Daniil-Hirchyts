@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Daniil-Hirchyts
-- 👀 I’m 3D Generalist / Digital designer & Dev
-- 🌱 I’m currently learning Java, JavaFX, JavaScript, PHP, MySQL, HTML, CSS
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniil-Hirchyts&hide=latte,makefile&langs_count=10&layout=compact&exclude_repo=github-stats"></a>
