@@ -3,10 +3,8 @@
 
 
 # Stats :
-<div align="center">
-  <a>![](https://raw.githubusercontent.com/Daniil-Hirchyts/github-stats/master/generated/languages.svg#gh-dark-mode-only)</a>
-  ![](https://raw.githubusercontent.com/Daniil-Hirchyts/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-</div>
+![](https://raw.githubusercontent.com/Daniil-Hirchyts/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Daniil-Hirchyts/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 # Languages I use :
 <a href="https://openjdk.java.net/">![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=java&logoColor=white)</a>
