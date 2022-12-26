@@ -8,7 +8,7 @@
 ![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-d65d0e?style=for-the-badge&logo=Python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-d65d0e?style=for-the-badge&logo=Swift&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-d65d0e?style=for-the-badge&logo=SQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-d65d0e?style=for-the-badge&logo=MySQL&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-d65d0e?style=for-the-badge&logo=HTML&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-d65d0e?style=for-the-badge&logo=CSS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-d65d0e?style=for-the-badge&logo=JavaScript&logoColor=white)
