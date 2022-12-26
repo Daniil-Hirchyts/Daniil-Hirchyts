@@ -1,15 +1,17 @@
 - 👋 Hi, I’m @Daniil-Hirchyts
 
-<!-- <div style="content-align:center"> -->
 <div style="text-align: center;">
-
+  
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+  
   ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+  
   ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+  
   ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
+  
 </div>
-<!-- </div> -->
+
 # Stats :
 ![](https://raw.githubusercontent.com/Daniil-Hirchyts/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Daniil-Hirchyts/github-stats/master/generated/languages.svg#gh-dark-mode-only)
