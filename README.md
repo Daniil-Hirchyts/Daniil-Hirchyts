@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Daniil-Hirchyts
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Daniil-Hirchyts=anuraghazra&show_icons=true&theme=transparent)
 
 
 # Stats :
