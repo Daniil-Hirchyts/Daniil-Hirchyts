@@ -13,7 +13,7 @@
 
 # Stats :
 
-<div style="align:center">
+<div style="content-align:center">
   
 ![](https://raw.githubusercontent.com/Daniil-Hirchyts/github-stats/master/generated/overview.svg#gh-dark-mode-only)
   
