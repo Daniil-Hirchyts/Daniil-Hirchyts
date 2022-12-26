@@ -15,4 +15,4 @@
 <a href="https://www.jetbrains.com/idea/">![Intelij IDEA](https://img.shields.io/badge/Intelij-ff0066?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)</a>
 <a href="https://code.visualstudio.com/">![VScode](https://img.shields.io/badge/VScode-0084e0?style=for-the-badge&logo=visualstudiocode&logoColor=white)</a>
 <a href="https://www.notion.so/">![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white)</a>
-<a href="https://www.jetbrains.com/pycharm/">![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=Notion&logoColor=white)</a>
+<a href="https://www.jetbrains.com/pycharm/">![PyCharm](https://img.shields.io/badge/PyCharm-00000?style=for-the-badge&logo=PyCharm&logoColor=white)</a>
