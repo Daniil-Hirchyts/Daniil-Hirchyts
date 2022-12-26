@@ -14,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-d65d0e?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-4f5d95?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-555555?style=for-the-badge&logo=Shell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-555555?style=for-the-badge&logo=Bash&logoColor=white)
 
 
 # Tools :
