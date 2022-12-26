@@ -6,7 +6,7 @@
 
 # Languages I use :
 <a href="https://openjdk.java.net/">![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=java&logoColor=white)</a>
-![Java](https://img.shields.io/badge/Java-4f5d95?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-4f5d95?style=for-the-badge&logo=Java&logoColor=white)
 <a href="https://www.php.net/">![PHP](https://img.shields.io/badge/PHP-4f5d95?style=for-the-badge&logo=php&logoColor=white)</a>
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 
