@@ -5,9 +5,14 @@
 ![](https://raw.githubusercontent.com/Daniil-Hirchyts/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 # Languages I use :
-<a href="https://openjdk.java.net/">![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=java&logoColor=white)</a>
-![Java](https://img.shields.io/badge/Java-4f5d95?style=for-the-badge&logo=Java&logoColor=white)
-<a href="https://www.php.net/">![PHP](https://img.shields.io/badge/PHP-4f5d95?style=for-the-badge&logo=php&logoColor=white)</a>
+![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-d65d0e?style=for-the-badge&logo=Python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-d65d0e?style=for-the-badge&logo=Swift&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-d65d0e?style=for-the-badge&logo=SQL&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-d65d0e?style=for-the-badge&logo=HTML&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-d65d0e?style=for-the-badge&logo=CSS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-d65d0e?style=for-the-badge&logo=JavaScript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-4f5d95?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 
 # Tools :
