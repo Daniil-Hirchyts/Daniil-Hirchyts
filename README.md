@@ -14,4 +14,4 @@
 <a href="https://github.com/">![Github](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github&logoColor=white)</a>
 <a href="https://www.jetbrains.com/idea/">![Intelij IDEA](https://img.shields.io/badge/Intelij-ff0066?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)</a>
 <a href="https://code.visualstudio.com/">![VScode](https://img.shields.io/badge/VScode-0084e0?style=for-the-badge&logo=visualstudiocode&logoColor=white)</a>
-<a href="https://www.notion.so/">![Notion](https://img.shields.io/badge/Notion-0084e0?style=for-the-badge&logo=Notion&logoColor=white)</a>
+<a href="https://www.notion.so/">![Notion](https://img.shields.io/badge/Notion-00000?style=for-the-badge&logo=Notion&logoColor=white)</a>
