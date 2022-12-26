@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Daniil-Hirchyts
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniil-Hirchyts&hide=latte,makefile&langs_count=10&layout=compact&exclude_repo=github-stats"></a>
-</div>
+
 
 # Stats :
+<div align="center">
 ![](https://raw.githubusercontent.com/Daniil-Hirchyts/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Daniil-Hirchyts/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+</div>
 
 # Languages I use :
 <a href="https://openjdk.java.net/">![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=java&logoColor=white)</a>
