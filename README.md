@@ -5,7 +5,8 @@
 ![](https://raw.githubusercontent.com/Daniil-Hirchyts/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 # Languages I use :
-![Java8](https://img.shields.io/badge/Java8-d65d0e?style=for-the-badge&logo=Java8&logoColor=white)
+![Java](https://img.shields.io/badge/Java-d65d0e?style=for-the-badge&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-d65d0e?style=for-the-badge&logo=Python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-d65d0e?style=for-the-badge&logo=Swift&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-d65d0e?style=for-the-badge&logo=MySQL&logoColor=white)
@@ -25,4 +26,4 @@
 <a href="https://www.jetbrains.com/pycharm/">![PyCharm](https://img.shields.io/badge/PyCharm-00000?style=for-the-badge&logo=PyCharm&logoColor=white)</a>
 <a href="https://code.visualstudio.com/">![VScode](https://img.shields.io/badge/VScode-0084e0?style=for-the-badge&logo=visualstudiocode&logoColor=white)</a>
 <a href="https://www.notion.so/">![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white)</a>
-
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)</a>
