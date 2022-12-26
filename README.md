@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Daniil-Hirchyts
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Daniil-Hirchyts=anuraghazra&show_icons=true&theme=transparent)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniil-Hirchyts&show_icons=true&theme=radical)
 
 # Stats :
 ![](https://raw.githubusercontent.com/Daniil-Hirchyts/github-stats/master/generated/overview.svg#gh-dark-mode-only)
