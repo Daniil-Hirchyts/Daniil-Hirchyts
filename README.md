@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Daniil-Hirchyts
 
-<div style="text-align: center;">
   
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
   
@@ -10,11 +9,18 @@
   
   ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
   
-</div>
+
 
 # Stats :
+
+<div style="text-align: center;">
+  
 ![](https://raw.githubusercontent.com/Daniil-Hirchyts/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  
 ![](https://raw.githubusercontent.com/Daniil-Hirchyts/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+  
+  </div>
+
 
 # Languages I use :
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -29,8 +35,7 @@
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-
+  
 # Tools :
 <a href="https://git-scm.com/">![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white)</a>
 <a href="https://github.com/">![Github](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github&logoColor=white)</a>
