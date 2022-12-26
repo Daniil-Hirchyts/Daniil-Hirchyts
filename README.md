@@ -14,16 +14,16 @@
 # Languages I use :
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-d65d0e?style=for-the-badge&logo=Python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-d65d0e?style=for-the-badge&logo=Swift&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-d65d0e?style=for-the-badge&logo=MySQL&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-d65d0e?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-d65d0e?style=for-the-badge&logo=CSS3&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=Swift&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00C300?style=for-the-badge&logo=MySQL&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0747a6?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FFA116?style=for-the-badge&logo=CSS3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-d65d0e?style=for-the-badge&logo=JavaScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-4f5d95?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Bash]([https://img.shields.io/badge/Bash-555555?style=for-the-badge&logo=Bash&logoColor=white](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white))
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 # Tools :
