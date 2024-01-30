@@ -9,16 +9,6 @@
   
 </div>
 
-# Stats :
-
-<div align="center">
-  
-![](https://raw.githubusercontent.com/Daniil-Hirchyts/github-stats/master/generated/languages.svg)
-![](https://raw.githubusercontent.com/Daniil-Hirchyts/github-stats/master/generated/overview.svg)
-
-</div>
-
-
 # I use :
 
 <div align="center">
